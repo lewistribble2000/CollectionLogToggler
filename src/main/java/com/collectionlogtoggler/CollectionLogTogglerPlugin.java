@@ -27,7 +27,7 @@ import java.util.regex.Pattern;
 
 @Slf4j
 @PluginDescriptor(
-	name = "Collection Log Toggler"
+	name = "CollectionLogToggler"
 )
 public class CollectionLogTogglerPlugin extends Plugin
 {
